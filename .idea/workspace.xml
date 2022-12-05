@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58a92575-70ab-4fea-b338-65b133a1779f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonClear/ButtonClear.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonClear/ButtonClear.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonDel/ButtonDel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonDel/ButtonDel.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonSend/ButtonSend.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/ButtonSend/ButtonSend.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Input/Input.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Title/Title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Title/Title.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IPauCl3nwseJ3jgZHRUSsDfgSA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Learning/exam",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\Learning\\telegram\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a92575-70ab-4fea-b338-65b133a1779f" name="Changes" comment="" />
+      <created>1670085892870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670085892870</updated>
+      <workItem from="1670085894078" duration="328000" />
+      <workItem from="1670086270618" duration="11000" />
+      <workItem from="1670090739403" duration="6763000" />
+      <workItem from="1670234972690" duration="11241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
